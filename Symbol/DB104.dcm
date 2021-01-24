@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB104
+D Bridge Rectifiers 1A 400V
+K
+F http://www.rectron.com/data_sheets/db101-107.pdf
+$ENDCMP
+#
+#End Doc Library
